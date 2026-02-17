@@ -20,3 +20,9 @@ not a domain or gameplay logic layer;
 not a replacement for agent orchestration stacks.
 Applicability
 SGK is applicable to persistent worlds, AI-driven environments, multi-agent simulations, and systems that require deterministic execution governance across independent subsystems.
+
+
+
+The public documents expose the architectural surface of the system.
+
+Detailed implementation notes and execution guides exist and are shared within collaboration or licensing discussions.
